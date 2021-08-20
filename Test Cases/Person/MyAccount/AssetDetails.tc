@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>资产明细：查询获取我的总资产值</description>
+   <name>AssetDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03f7cd6b-8004-4496-ac95-8562ebfe3cc9</testCaseGuid>
+   <variable>
+      <defaultValue>'0.00'</defaultValue>
+      <description></description>
+      <id>ea63396b-c31a-406e-ac4a-f24960c8540c</id>
+      <masked>false</masked>
+      <name>totalcheck</name>
+   </variable>
+</TestCaseEntity>

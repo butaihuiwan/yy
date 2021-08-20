@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F73546AA9CE5C6AE3A3FCDDDE953A390",
+  "keywordClasses": [
+    {
+      "name": "time.Timesleep",
+      "keywordMethods": [
+        {
+          "name": "timesleep",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

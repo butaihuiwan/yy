@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>电商PC端地址</description>
+      <initValue>'https://www.maxwealthfund.com/index'</initValue>
+      <name>PCurl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>个人登录用户名</description>
+      <initValue>'18654195593'</initValue>
+      <name>usernameperson</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>个人登录密码</description>
+      <initValue>'tp291291'</initValue>
+      <name>pwdperson</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.maxwealthfund.com/admittance/login?name=geren'</initValue>
+      <name>url_swich</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.maxwealthfund.com/myAccount/myAssets?headTradeNav=0&amp;item=0'</initValue>
+      <name>url_check</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

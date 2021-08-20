@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>交易申请查询:交易确认直销查询</description>
+   <name>TradeApplyDirectSellingQuery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f27a6f46-b04b-410e-acd5-6a9bff44a781</testCaseGuid>
+</TestCaseEntity>
