@@ -17,3 +17,42 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(GlobalVariable.PCurl)
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Person/HomePage/Login/clickperosn'))
+
+WebUI.switchToWindowUrl(GlobalVariable.url_swich)
+
+WebUI.sendKeys(findTestObject('Person/HomePage/Login/username'), GlobalVariable.usernameperson)
+
+WebUI.sendKeys(findTestObject('Person/HomePage/Login/pwd'), GlobalVariable.pwdperson)
+
+WebUI.click(findTestObject('Person/HomePage/Login/loginbutton'))
+
+WebUI.mouseOver(findTestObject('Person/HomePage/Login/checkelement'))
+
+get_url = WebUI.getUrl()
+
+if (get_url == GlobalVariable.url_check) {
+} else {
+    WebUI.acceptAlert()
+}
+
+WebUI.click(findTestObject('Person/MyAccount/TradeRecord/TradeRecord'))
+
+WebUI.click(findTestObject('Person/MyAccount/TradeRecord/TradeConfirm/TradeConfirm'))
+
+WebUI.click(findTestObject('Person/MyAccount/TradeRecord/TradeConfirm/AllData'))
+
+datalist = WebUI.getText(findTestObject('Person/MyAccount/TradeRecord/TradeConfirm/DataList'))
+
+CustomKeywords.'print.Print.print'(datalist)
+
+if (datalist == datalistcheck) {
+    WebUI.closeBrowser()
+} else {
+    WebUI.acceptAlert()
+}
+

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description>交易申请点击</description>
-   <name>TradeApply</name>
+   <description>全部</description>
+   <name>AllData</name>
    <tag></tag>
-   <elementGuidId>0b0eb8e4-c3fb-4acd-985b-3b91486c9da7</elementGuidId>
+   <elementGuidId>111867f2-f2c3-4fcb-b249-34f310dfdd98</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[text()='交易申请']</value>
+         <value>//div[@class='el-tabs__content']/div[2]//div[text()=' 全部 ']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

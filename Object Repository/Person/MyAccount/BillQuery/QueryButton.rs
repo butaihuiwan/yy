@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description>交易列表：暂无数据</description>
-   <name>listnum</name>
+   <description>查询按钮</description>
+   <name>QueryButton</name>
    <tag></tag>
-   <elementGuidId>6b1829f4-d4c1-4595-8073-c2b20648c327</elementGuidId>
+   <elementGuidId>920f73b3-57d2-4a35-b471-b41242596f45</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@class='el-table__body-wrapper is-scrolling-none']/div/span</value>
+         <value>//div[@class='timeQueryBox']/div[2]//span[text()='查询']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

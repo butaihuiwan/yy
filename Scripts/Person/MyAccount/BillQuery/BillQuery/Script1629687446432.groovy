@@ -40,13 +40,13 @@ if (get_url == GlobalVariable.url_check) {
     WebUI.acceptAlert()
 }
 
-WebUI.click(findTestObject('Person/MyAccount/TradeRecord/TradeRecord'))
+WebUI.click(findTestObject('Person/MyAccount/BillQuery/BillQuery'))
 
-WebUI.click(findTestObject('Person/MyAccount/TradeRecord/TradeApply/DirectSelling/TradeApply'))
+name = WebUI.getText(findTestObject('Person/MyAccount/BillQuery/name'))
 
-total = WebUI.getText(findTestObject('Person/MyAccount/AssetDeatails/assettotal'))
+CustomKeywords.'print.Print.print'(name)
 
-if (total == totalcheck) {
+if (name == namecheck) {
     WebUI.closeBrowser()
 } else {
     WebUI.acceptAlert()
