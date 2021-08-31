@@ -5,28 +5,73 @@
    <tag></tag>
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
-      <description>电商PC端地址</description>
+      <description>测试地址</description>
+      <initValue>'https://dytest.maxwealthfund.com/pc/index'</initValue>
+      <name>T_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>测试个人用户名</description>
+      <initValue>'18654195591'</initValue>
+      <name>TP_user</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>测试个人密码</description>
+      <initValue>'abcd1234'</initValue>
+      <name>TP_pwd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>进入选择个人登录页面</description>
+      <initValue>'https://dytest.maxwealthfund.com/pc/admittance/login?name=geren'</initValue>
+      <name>TP_swith_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>进入机构登录页面</description>
+      <initValue>'https://dytest.maxwealthfund.com/pc/admittance/login?name=jigou'</initValue>
+      <name>TM_swith_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>检查个人登录成功页面地址</description>
+      <initValue>'https://dytest.maxwealthfund.com/pc/myAccount/myAssets'</initValue>
+      <name>TP_check_login_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>检查测试专户登录完成url</description>
+      <initValue>'https://dytest.maxwealthfund.com/pc/mechanism/myAssets?headTradeNav=0&amp;item=0'</initValue>
+      <name>TM_check_login_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>测试专户用户名</description>
+      <initValue>'0Y0000000539'</initValue>
+      <name>TM_user</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>测试专户密码</description>
+      <initValue>'161064'</initValue>
+      <name>TM_pwd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>生产地址</description>
       <initValue>'https://www.maxwealthfund.com/index'</initValue>
-      <name>PCurl</name>
+      <name>P_url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>个人登录用户名</description>
+      <description>生产个人用户名</description>
       <initValue>'18654195593'</initValue>
-      <name>usernameperson</name>
+      <name>PP_user</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>个人登录密码</description>
+      <description>生产个人密码</description>
       <initValue>'tp291291'</initValue>
-      <name>pwdperson</name>
+      <name>PP_pwd</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>进入选择个人登录页面</description>
       <initValue>'https://www.maxwealthfund.com/admittance/login?name=geren'</initValue>
-      <name>url_swich</name>
+      <name>PP_swith_url</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>检查登录成页面地址</description>
       <initValue>'https://www.maxwealthfund.com/myAccount/myAssets?headTradeNav=0&amp;item=0'</initValue>
-      <name>url_check</name>
+      <name>PP_check_login_url</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

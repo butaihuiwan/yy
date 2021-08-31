@@ -42,9 +42,9 @@ import java.util.concurrent.TimeUnit
 
 public class Timesleep {
 	@Keyword
-	def timesleep() {
+	def timesleep(int num) {
 		try {
-			TimeUnit.SECONDS.sleep(2);
+			TimeUnit.SECONDS.sleep(num);
 			System.out.println("睡眠了")
 		}catch(InterruptedException e) {
 			e.printstackTrace();

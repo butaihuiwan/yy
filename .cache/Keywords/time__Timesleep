@@ -1,12 +1,26 @@
 {
-  "keywordFileContentHash": "F73546AA9CE5C6AE3A3FCDDDE953A390",
+  "keywordFileContentHash": "89CD2726E1B52B3A209CBDF48C659C72",
   "keywordClasses": [
     {
       "name": "time.Timesleep",
       "keywordMethods": [
         {
           "name": "timesleep",
-          "parameters": [],
+          "parameters": [
+            {
+              "name": "num",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
           "javadoc": ""
         }
       ]

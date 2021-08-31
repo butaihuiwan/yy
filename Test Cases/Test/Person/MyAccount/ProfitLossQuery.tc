@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>盈亏查询</description>
+   <name>ProfitLossQuery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b49cbc63-2cfb-46c2-bb0e-eefc763b4d52</testCaseGuid>
+   <variable>
+      <defaultValue>'0.00'</defaultValue>
+      <description></description>
+      <id>07198d63-19fa-4340-976a-7d676a688cff</id>
+      <masked>false</masked>
+      <name>assertvalue</name>
+   </variable>
+</TestCaseEntity>

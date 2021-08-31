@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "80BDE409AD0EE9D6B4E91DFD082DEFA8",
+  "keywordFileContentHash": "4F42A4E05154295258152F4EF4C9B6CC",
   "keywordClasses": [
     {
       "name": "print.Print",
@@ -20,11 +20,28 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
+        },
+        {
+          "name": "printString",
+          "parameters": [
+            {
+              "name": "arrayAout",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

@@ -43,4 +43,10 @@ class Print {
 	def print(int arrayAout) {
 		System.out.println(arrayAout[0])
 	}
+
+	@Keyword
+  	def printString(String arrayAout)
+	  {
+		  System.out.println(arrayAout[0])
+	  }
 }

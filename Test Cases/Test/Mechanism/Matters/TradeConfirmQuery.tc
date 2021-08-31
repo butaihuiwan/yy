@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>专户理财：交易确认查询:查询全部</description>
+   <name>TradeConfirmQuery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>decb5f38-b7bd-4d59-87f2-ea7593b837c9</testCaseGuid>
+   <variable>
+      <defaultValue>'暂无数据'</defaultValue>
+      <description></description>
+      <id>0a53885e-6ea1-45e6-bcba-d4bef4ddfd00</id>
+      <masked>false</masked>
+      <name>assertvalue</name>
+   </variable>
+</TestCaseEntity>

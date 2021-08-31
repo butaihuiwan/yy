@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>我的信息: 证照重新上传</description>
+   <name>ReUploadCard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8ce27e9-7d17-44f7-aa80-65add4bc9ef4</testCaseGuid>
+   <variable>
+      <defaultValue>'姓'</defaultValue>
+      <description></description>
+      <id>71c2ac96-e1bf-4546-99a4-fec0b0096c36</id>
+      <masked>false</masked>
+      <name>assert_value</name>
+   </variable>
+</TestCaseEntity>

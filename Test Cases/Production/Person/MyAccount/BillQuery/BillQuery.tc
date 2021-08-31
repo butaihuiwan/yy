@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>账单查询</description>
+   <name>BillQuery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c6846c8-9851-4225-9683-eca57b63347b</testCaseGuid>
+   <variable>
+      <defaultValue>'唐鹏'</defaultValue>
+      <description></description>
+      <id>03af3d23-5cff-456e-8bea-49b284913e06</id>
+      <masked>false</masked>
+      <name>assertvalue</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>专户</description>
+   <name>Matters</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>2a263c3a-ecac-4142-8e5c-4fffcbb37563</testSuiteGuid>
+   <testCaseLink>
+      <guid>8d066adc-0b10-43b6-a538-3bfbc7ed7c79</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test/Mechanism/Matters/AssetDetails</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5204b587-a6ac-4ae2-9802-3e25d860a166</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>78adfa60-a3ad-4954-9ff5-1cd5a7638f3b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test/Mechanism/Matters/NoticeQuery</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ad12b63a-4bfd-4534-9cbe-2ce907a179cd</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>44b9be7e-3212-4e2c-9fa1-c3a028d0d631</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test/Mechanism/Matters/TradeApplyQuery</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5a428018-611a-4bff-b9bf-023c123086d2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>71b638c4-3dc5-44c9-a3f7-7485668e9a1b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test/Mechanism/Matters/TradeConfirmQuery</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0a53885e-6ea1-45e6-bcba-d4bef4ddfd00</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>46481818-4cea-4196-be5a-26faded09bee</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test/Mechanism/MyAccount/AssetDetails</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ea63396b-c31a-406e-ac4a-f24960c8540c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>我的分红查询</description>
+   <name>MyBounsQuery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f633e902-6b41-4f94-bd46-af47d2e912f1</testCaseGuid>
+   <variable>
+      <defaultValue>'暂无数据'</defaultValue>
+      <description></description>
+      <id>3a48f900-320e-4178-ab90-56e460d81b74</id>
+      <masked>false</masked>
+      <name>assertvalue</name>
+   </variable>
+</TestCaseEntity>

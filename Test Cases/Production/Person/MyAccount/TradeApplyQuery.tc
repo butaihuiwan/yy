@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>交易申请查询：直销，近一个月</description>
+   <name>TradeApplyQuery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76ba1715-44d4-44f0-a0e6-646e28064b08</testCaseGuid>
+   <variable>
+      <defaultValue>'暂无数据'</defaultValue>
+      <description></description>
+      <id>5e2b9251-548b-46a3-9730-f1d0b7aaaa66</id>
+      <masked>false</masked>
+      <name>assertvalue</name>
+   </variable>
+</TestCaseEntity>

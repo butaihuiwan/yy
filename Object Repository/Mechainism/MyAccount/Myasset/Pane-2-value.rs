@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>专户持仓数据列表第一个产品名称</description>
+   <name>Pane-2-value</name>
+   <tag></tag>
+   <elementGuidId>9be25213-4a5f-4d2b-8342-e079596072b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='el-tabs__content']/div[2]/div/div[3]//tbody/tr[1]/td[1]//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>修改手机号</description>
+   <name>ModifyPhoneNum</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99d32594-a54f-4688-88cb-d831a0c7af82</testCaseGuid>
+   <variable>
+      <defaultValue>'18654195592'</defaultValue>
+      <description></description>
+      <id>6c92a257-2937-47d2-ab82-a3cad89aa154</id>
+      <masked>false</masked>
+      <name>numinput</name>
+   </variable>
+   <variable>
+      <defaultValue>'111111'</defaultValue>
+      <description></description>
+      <id>feb2af58-762d-4122-943d-96ee42e58da2</id>
+      <masked>false</masked>
+      <name>mesinput</name>
+   </variable>
+   <variable>
+      <defaultValue>'111111'</defaultValue>
+      <description></description>
+      <id>38596f4e-521b-4d5d-87f7-e35c41892509</id>
+      <masked>false</masked>
+      <name>imgnum</name>
+   </variable>
+   <variable>
+      <defaultValue>'18654195581'</defaultValue>
+      <description></description>
+      <id>5be98957-49f1-4ad8-876b-63b1db9660d6</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'abcd1234'</defaultValue>
+      <description></description>
+      <id>bea3a062-8ba7-4afe-bccc-c0266deba799</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

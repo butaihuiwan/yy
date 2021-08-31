@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>修改分红方式</description>
+   <name>ModifyBouns</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3afa3d8e-a191-43a2-806c-4562214d9372</testCaseGuid>
+</TestCaseEntity>

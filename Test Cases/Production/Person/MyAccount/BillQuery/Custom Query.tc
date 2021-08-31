@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>账单查询：自定义查询</description>
+   <name>Custom Query</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e43f7b2-714d-463d-a437-398eca7c2bed</testCaseGuid>
+   <variable>
+      <defaultValue>'唐鹏'</defaultValue>
+      <description></description>
+      <id>7326a145-3242-4504-ab8e-712098905fa3</id>
+      <masked>false</masked>
+      <name>assertvalue</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "F3D986A52EF17C2AAD315DC26329D3CE",
+  "keywordClasses": [
+    {
+      "name": "uploadfile.Uploadfile",
+      "keywordMethods": [
+        {
+          "name": "uploadfile",
+          "parameters": [
+            {
+              "name": "filePath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

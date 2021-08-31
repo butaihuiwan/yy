@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>专户理财：专户公告</description>
+   <name>NoticeQuery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe5f13e1-27ca-4d7e-9338-517921be245a</testCaseGuid>
+   <variable>
+      <defaultValue>'暂无数据'</defaultValue>
+      <description></description>
+      <id>ad12b63a-4bfd-4534-9cbe-2ce907a179cd</id>
+      <masked>false</masked>
+      <name>assertvalue</name>
+   </variable>
+</TestCaseEntity>

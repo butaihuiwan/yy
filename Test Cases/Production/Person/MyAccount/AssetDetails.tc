@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>资产明细：查询获取我的总资产值</description>
+   <name>AssetDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1da7d084-b3b5-4465-a2f0-2306170bedf4</testCaseGuid>
+   <variable>
+      <defaultValue>'0.00'</defaultValue>
+      <description></description>
+      <id>e7e2059a-244c-4495-8056-476282501927</id>
+      <masked>false</masked>
+      <name>assert_value</name>
+   </variable>
+</TestCaseEntity>

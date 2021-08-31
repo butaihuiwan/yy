@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>我的资产</description>
+   <name>MyAsset</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49ccce49-82e0-43a3-9633-49f0adb5fe1a</testCaseGuid>
+   <variable>
+      <defaultValue>'0.00'</defaultValue>
+      <description></description>
+      <id>6cb5b654-6bbb-46a7-9a5e-fe2140d823c0</id>
+      <masked>false</masked>
+      <name>assertvalue</name>
+   </variable>
+</TestCaseEntity>
